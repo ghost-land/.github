@@ -3,4 +3,4 @@
 
 ### 👉 Creators of [Ghost eShop](http://ghosteshop.com)
 
-[![Discord](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner3&time)](https://discord.gg/9Rqvh9F)
+[![Discord](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner3&time)](https://discord.com/invite/ghost-eshop-633965704424718336)
