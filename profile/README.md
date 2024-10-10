@@ -3,4 +3,4 @@
 
 ### 👉 Creators of [Ghost eShop](http://ghosteshop.com)
 
-[![ko-fi](https://github.com/ghost-land/.github/blob/128aae6972890bdd6886190eb72273dab0acc645/profile/githubbutton_sm.png)](https://buymeacoffee.com/ghostland)
+[![ko-fi](https://github.com/ghost-land/.github/blob/128aae6972890bdd6886190eb72273dab0acc645/profile/githubbutton_sm.png)](https://boosty.to/ghostland)
